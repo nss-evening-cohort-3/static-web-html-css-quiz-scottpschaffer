@@ -1,0 +1,47 @@
+.card{
+  width: 30%;
+  border: 1px solid lightblue;
+  display: inline-block;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+  border: 1px dotted lightgray;
+  margin: 0 0;
+  padding: 20px;
+}
+
+h3, h6 {
+  margin: 0;
+}
+
+.available {
+  background-color: gray;
+  color: yellow;
+}
+
+.image > img {
+  position: relative;
+  top: 50%;
+  left: 29%;
+  margin: 0;
+  padding: 0;
+  height:100px;
+  width: 150px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.desc {
+  text-align: center;
+}
+
+.bold1{
+  font-weight: bold;
+  font-size: .85em;
+  margin-left: 10px;
+}
