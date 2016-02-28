@@ -1,0 +1,63 @@
+.card{
+  width: 30%;
+  border: 1px solid lightblue;
+  display: inline-block;
+  margin: 1%;
+  text-align: center;
+}
+
+.header1{
+  border: 1px dotted lightgray;
+/*  padding: 20px;
+*/}
+
+h1 {
+  text-align: center;
+  /*border: 1px dotted lightgray;
+  margin: 0 0;
+  padding: 20px;*/
+  font-size: 2vw;
+}
+
+h3, h6 {
+  margin: 0;
+  text-align: left;
+}
+
+h3 {
+  padding-left: 5px;
+}
+
+.available {
+  background-color: gray;
+  color: yellow;
+  text-align: left;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+
+.image > img {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  /*height:100px;*/
+  max-width: 50%;
+  max-height: 50px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.desc {
+  text-align: justify;
+  padding: 8px;
+}
+
+.bold1{
+  font-weight: bold;
+  font-size: .85em;
+  text-align: left;
+  margin-left: 15px;
+}
